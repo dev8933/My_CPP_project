@@ -11,4 +11,4 @@ MyProjects/
 │   
 │  
 │
-└── README.md  (Overview of all projects)
+└── README.md  (Overview of all projects).
